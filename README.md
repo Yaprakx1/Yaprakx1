@@ -1,7 +1,10 @@
 ### Hi 👋 I'm ULVİYE
 I am a Frontend React developer 
+
 Problem solving is my job and life is so much more enjoyable when it does.
+
 I write regular and semantic code
+
 I am experienced and successful in teamwork
 
 🌱 I’m currently learning HTML5, CSS3 ,Bootstrap,SASS,JS,React
