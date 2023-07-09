@@ -11,6 +11,8 @@ I am experienced and successful in teamwork
 
  ⚡ Fun fact: learning is the other name of enjoyable time...
 
+ For my professional development i am looking for everything that helps me to improve myself.
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,figma,github,js,jenkins,linkedin,postman,react,redux,sass,stackoverflow,vscode,figma,nodejs,html,css" />
