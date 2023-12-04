@@ -7,7 +7,7 @@ I write regular and semantic code
 
 I am experienced and successful in teamwork
 
-🌱 I use HTML5, CSS3 ,Bootstrap,SASS,JS,React..technologies
+🌱 I use HTML5, CSS3 ,Bootstrap,SASS,JS,React React-Native..technologies
 
  ⚡ Fun fact: learning is the other name of enjoyable time...
 
